@@ -10,41 +10,121 @@ ClimeApp is a data processing tool for the state-of-the-art Modern Era Reanalysi
 
 
 ## 1.	Climate Reanalysis
-<!-- Video 1 -->
-<!-- climate_reanalysis.mp4 -->
-<!-- climate_reanalysis.png -->
+<!-- 01_climate_reanalysis.mp4 -->
+
 <div class="video-wrapper">
   <video controls>
-    <source src="videos/climate_reanalysis.mp4" type="video/mp4">
+    <source src="videos/01_climate_reanalysis.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
 
 ## 2. ModE-RA Sources and Statistical Tools
+<!-- 02_sources_and_statistics.mp4 -->
 
 <!-- <div class="video-wrapper"> -->
-<!--   <video controls poster="images/welcome_map.jpg"> -->
-<!--     <source src="videos/intro.mp4" type="video/mp4"> -->
+<!--   <video controls> -->
+<!--     <source src="videos/02_sources_and_statistics.mp4" type="video/mp4"> -->
 <!--     Your browser does not support the video tag. -->
 <!--   </video> -->
 <!-- </div> -->
 
 ## 3.	Datasets
+<!-- 03_datasets.mp4 -->
+
+<!-- <div class="video-wrapper"> -->
+<!--   <video controls> -->
+<!--     <source src="videos/03_datasets.mp4" type="video/mp4"> -->
+<!--     Your browser does not support the video tag. -->
+<!--   </video> -->
+<!-- </div> -->
 
 ## 4. Variables
+<!-- 04_variables.mp4 -->
+
+<!-- <div class="video-wrapper"> -->
+<!--   <video controls> -->
+<!--     <source src="videos/04_variables.mp4" type="video/mp4"> -->
+<!--     Your browser does not support the video tag. -->
+<!--   </video> -->
+<!-- </div> -->
 
 ## 5. Anomalies
+<!-- 05_anomalies.mp4 -->
 
+<!-- <div class="video-wrapper"> -->
+<!--   <video controls> -->
+<!--     <source src="videos/05_anomalies.mp4" type="video/mp4"> -->
+<!--     Your browser does not support the video tag. -->
+<!--   </video> -->
+<!-- </div> -->
 
 ## 6. Composites
+<!-- 06_composites.mp4 -->
+
+<!-- <div class="video-wrapper"> -->
+<!--   <video controls> -->
+<!--     <source src="videos/06_composites.mp4" type="video/mp4"> -->
+<!--     Your browser does not support the video tag. -->
+<!--   </video> -->
+<!-- </div> -->
+
 ## 7. SEA
+<!-- 07_sea.mp4 -->
+
+<!-- <div class="video-wrapper"> -->
+<!--   <video controls> -->
+<!--     <source src="videos/07_sea.mp4" type="video/mp4"> -->
+<!--     Your browser does not support the video tag. -->
+<!--   </video> -->
+<!-- </div> -->
+
 ## 8. Correlation
+<!-- 08_correlation.mp4 -->
+
+<!-- <div class="video-wrapper"> -->
+<!--   <video controls> -->
+<!--     <source src="videos/08_correlation.mp4" type="video/mp4"> -->
+<!--     Your browser does not support the video tag. -->
+<!--   </video> -->
+<!-- </div> -->
+
 ## 9. Regression
+<!-- 09_regression.mp4 -->
+
+<!-- <div class="video-wrapper"> -->
+<!--   <video controls> -->
+<!--     <source src="videos/09_regression.mp4" type="video/mp4"> -->
+<!--     Your browser does not support the video tag. -->
+<!--   </video> -->
+<!-- </div> -->
+
 ## 10. Annual Cycles
+<!-- 10_annual_cycles.mp4 -->
+
+<!-- <div class="video-wrapper"> -->
+<!--   <video controls> -->
+<!--     <source src="videos/10_annual_cycles.mp4" type="video/mp4"> -->
+<!--     Your browser does not support the video tag. -->
+<!--   </video> -->
+<!-- </div> -->
+
 ## 11. Customizations and Downloads
+<!-- 11_customizations_and_downloads.mp4 -->
+
+<!-- <div class="video-wrapper"> -->
+<!--   <video controls> -->
+<!--     <source src="videos/11_customizations_and_downloads.mp4" type="video/mp4"> -->
+<!--     Your browser does not support the video tag. -->
+<!--   </video> -->
+<!-- </div> -->
+
 ## 12. Outlook / Conclusions / References
+<!-- 12_outlook.mp4 -->
 
-
-
-
-
+<!-- <div class="video-wrapper"> -->
+<!--   <video controls> -->
+<!--     <source src="videos/12_outlook.mp4" type="video/mp4"> -->
+<!--     Your browser does not support the video tag. -->
+<!--   </video> -->
+<!-- </div> -->
