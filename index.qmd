@@ -19,6 +19,18 @@ ClimeApp is a data processing tool for the state-of-the-art Modern Era Reanalysi
   </video>
 </div>
 
+::: {.callout-note collapse="true"}
+## Full Text of Video 1
+
+A Climate Reanalysis is a powerful method to produce a dataset of the past climate. It uses observations from proxies such as corals, ice cores and tree rings, as well as documentary data and measurement data to reconstruct the climate. This reconstructed data is then fed into powerful global climate models to get a complete dataset.
+
+The main goal of having a reanalysis of the past six centuries is to study climate variability. This includes the effects of climate phenomena like El Niño Southern Oscillation and Monsoons or external forcings like volcanic eruptions or the rise of manmade C02 in the atmosphere.
+
+ClimeApp was developed to make the ModE-RA data accessible to a broader audience of researchers, particularly outside of climatology. It is designed to visualize and analyze the ModE-RA data in a user-friendly way.
+
+To walk you through the functionalities of ClimeApp, we will analyze the largest volcanic eruption in recorded human history: Mount Tambora. The stratovolcano Mount Tambora is located on the Island Sumbawa in Indonesia. It violently erupted on the fifth of April 1815 after being dormant for several centuries. The explosion reduced Tambora’s maximum elevation from 4300 to 2850 m and caused heavy volcanic ash rains on the surrounding islands. An estimated 71’000 people were killed.Explosive tropical eruptions like Tambora are a main cause of short-term interannual climate variability (Wegmann et al. 2014). Sulfuric acid from the eruption reaches the stratosphere and forms sulfate aerosols that then spread around the globe. The aerosols absorb longwave radiation from the sun and the Earth which significantly warms the stratosphere. But they also reflect shortwave solar radiation, reducing the amount of radiation that reaches the Earth's surface. This has a cooling effect on the troposphere, especially on land surfaces (Brönnimann, 2015). 
+:::
+
 ## 2. ModE-RA Sources and Statistical Tools
 <!-- 02_sources_and_statistics.mp4 -->
 

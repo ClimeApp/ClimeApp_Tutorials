@@ -6,7 +6,6 @@ project:
     - data/**
 
 website:
-  title: "Tutorials"
   favicon: "images/Logo_Favicon.ico"
   page-footer:
     left: "© 2025 ClimeApp Team – University of Bern"
