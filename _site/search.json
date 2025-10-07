@@ -1,0 +1,156 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "ClimeApp Tutorials",
+    "section": "",
+    "text": "Welcome to the ClimeApp Video Tutorial. We are going to show you how you can use ClimeApp to analyze and visualize reconstructed climate data in order to answer a variety of scientific research questions.\nClimeApp is a data processing tool for the state-of-the-art Modern Era Reanalysis – short ModeE-RA. ModE-RA provides a monthly, global climate reconstruction from 1422 to 2008. For an introduction on how to use ClimeApp, and the data behind it, watch the video tutorials."
+  },
+  {
+    "objectID": "index.html#introduction",
+    "href": "index.html#introduction",
+    "title": "Introduction",
+    "section": "1. Introduction",
+    "text": "1. Introduction\nA Climate Reanalysis is a powerful method to produce a dataset of the past climate. It uses observations from proxies such as corals, ice cores and tree rings, as well as documentary data and measurement data to reconstruct the climate. This reconstructed data is then fed into powerful global climate models to get a complete dataset.\n\nInsert Video: Climate Reanalysis"
+  },
+  {
+    "objectID": "index.html#climate-reanalysis",
+    "href": "index.html#climate-reanalysis",
+    "title": "ClimeApp Tutorials",
+    "section": "1. Climate Reanalysis",
+    "text": "1. Climate Reanalysis\n\n\n\n\n  Your browser does not support the video tag."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "ClimeApp\nClimeApp is a data processing tool for the state-of-the-art ModE-RA Global Climate Reanalysis. For more information, visit the ClimeApp website. It was created by Niklaus Bartlome & Richard Warren Co-developed by Noémie Wellinger & Tanja Falasca.\n\n\nClimeApp\nFor feedback and suggestions on ClimeApp, please contact: climeapp.hist@unibe.ch.  For queries relating to the ModE-RA data, please contact: franke@giub.unibe.ch"
+  },
+  {
+    "objectID": "index.html#example-mount-tambora",
+    "href": "index.html#example-mount-tambora",
+    "title": "Introduction",
+    "section": "Example Mount Tambora",
+    "text": "Example Mount Tambora\n\nInsert Video: Climate Reanalysis: Example Mount Tambora"
+  },
+  {
+    "objectID": "index.html#mode-ra-sources-and-statistical-tools",
+    "href": "index.html#mode-ra-sources-and-statistical-tools",
+    "title": "ClimeApp Tutorials",
+    "section": "2. ModE-RA Sources and Statistical Tools",
+    "text": "2. ModE-RA Sources and Statistical Tools"
+  },
+  {
+    "objectID": "index.html#variables",
+    "href": "index.html#variables",
+    "title": "ClimeApp Tutorials",
+    "section": "4. Variables",
+    "text": "4. Variables"
+  },
+  {
+    "objectID": "tutorials.html",
+    "href": "tutorials.html",
+    "title": "ClimeApp Tutorials",
+    "section": "",
+    "text": "Welcome to the ClimeApp Video Tutorial. We are going to show you how you can use ClimeApp to analyze and visualize reconstructed climate data in order to answer a variety of scientific research questions.  ClimeApp is a Data processing tool for the state-of-the-art Modern Era Reanalysis – short ModeE-RA. ModE-RA provides a monthly, global climate reconstruction from 1422 to 2008."
+  },
+  {
+    "objectID": "tutorials.html#short-introduction",
+    "href": "tutorials.html#short-introduction",
+    "title": "ClimeApp Tutorials",
+    "section": "",
+    "text": "Welcome to the ClimeApp Video Tutorial. We are going to show you how you can use ClimeApp to analyze and visualize reconstructed climate data in order to answer a variety of scientific research questions.  ClimeApp is a Data processing tool for the state-of-the-art Modern Era Reanalysis – short ModeE-RA. ModE-RA provides a monthly, global climate reconstruction from 1422 to 2008."
+  },
+  {
+    "objectID": "tutorials.html#climate-reanalysis",
+    "href": "tutorials.html#climate-reanalysis",
+    "title": "ClimeApp Tutorials",
+    "section": "Climate Reanalysis",
+    "text": "Climate Reanalysis\nA Climate Reanalysis is a powerful method to produce a dataset of the past climate. It uses observations from proxies such as corals, ice cores and tree rings, as well as documentary data and measurement data to reconstruct the climate. This reconstructed data is then fed into powerful global climate models to get a complete dataset. To learn more about climate reanalyzes, click the link on the screen or in the description.  The main goal of having a reanalysis of the past six centuries is to study climate variability. This includes the effects of climate phenomena like El Niño Southern Oscillation and Monsoons or external forcings like volcanic eruptions or the rise of C02 in the atmosphere.  ClimeApp was developed in an effort to make the ModE-RA data accessible to a broader audience of researchers outside of climatology. It is designed to visualize and analyze the ModE-RA data in a user-friendly way."
+  },
+  {
+    "objectID": "index.html#section",
+    "href": "index.html#section",
+    "title": "Introduction",
+    "section": "2.",
+    "text": "2.\n\nInsert Video: Climate Reanalysis"
+  },
+  {
+    "objectID": "index.html#section-1",
+    "href": "index.html#section-1",
+    "title": "Introduction",
+    "section": "3.",
+    "text": "3.\n\nInsert Video: Climate Reanalysis"
+  },
+  {
+    "objectID": "index.html#section-2",
+    "href": "index.html#section-2",
+    "title": "Introduction",
+    "section": "4.",
+    "text": "4."
+  },
+  {
+    "objectID": "index.html#datasets",
+    "href": "index.html#datasets",
+    "title": "ClimeApp Tutorials",
+    "section": "3. Datasets",
+    "text": "3. Datasets"
+  },
+  {
+    "objectID": "index.html#anomalies",
+    "href": "index.html#anomalies",
+    "title": "ClimeApp Tutorials",
+    "section": "5. Anomalies",
+    "text": "5. Anomalies"
+  },
+  {
+    "objectID": "index.html#composites",
+    "href": "index.html#composites",
+    "title": "ClimeApp Tutorials",
+    "section": "6. Composites",
+    "text": "6. Composites"
+  },
+  {
+    "objectID": "index.html#sea",
+    "href": "index.html#sea",
+    "title": "ClimeApp Tutorials",
+    "section": "7. SEA",
+    "text": "7. SEA"
+  },
+  {
+    "objectID": "index.html#correlation",
+    "href": "index.html#correlation",
+    "title": "ClimeApp Tutorials",
+    "section": "8. Correlation",
+    "text": "8. Correlation"
+  },
+  {
+    "objectID": "index.html#regression",
+    "href": "index.html#regression",
+    "title": "ClimeApp Tutorials",
+    "section": "9. Regression",
+    "text": "9. Regression"
+  },
+  {
+    "objectID": "index.html#annual-cycles",
+    "href": "index.html#annual-cycles",
+    "title": "ClimeApp Tutorials",
+    "section": "10. Annual Cycles",
+    "text": "10. Annual Cycles"
+  },
+  {
+    "objectID": "index.html#customizations-and-downloads",
+    "href": "index.html#customizations-and-downloads",
+    "title": "ClimeApp Tutorials",
+    "section": "11. Customizations and Downloads",
+    "text": "11. Customizations and Downloads"
+  },
+  {
+    "objectID": "index.html#outlook-conclusions-references",
+    "href": "index.html#outlook-conclusions-references",
+    "title": "ClimeApp Tutorials",
+    "section": "12. Outlook / Conclusions / References",
+    "text": "12. Outlook / Conclusions / References"
+  }
+]

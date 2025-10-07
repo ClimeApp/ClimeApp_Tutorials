@@ -1,0 +1,50 @@
+---
+title: "ClimeApp Tutorials"
+editor: source
+---
+
+Welcome to the ClimeApp Video Tutorial. 
+We are going to show you how you can use ClimeApp to analyze and visualize reconstructed climate data in order to answer a variety of scientific research questions.
+
+ClimeApp is a data processing tool for the state-of-the-art Modern Era Reanalysis – short ModeE-RA. ModE-RA provides a monthly, global climate reconstruction from 1422 to 2008. For an introduction on how to use ClimeApp, and the data behind it, watch the video tutorials.
+
+
+## 1.	Climate Reanalysis
+<!-- Video 1 -->
+<!-- climate_reanalysis.mp4 -->
+<!-- climate_reanalysis.png -->
+<div class="video-wrapper">
+  <video controls>
+    <source src="videos/climate_reanalysis.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+## 2. ModE-RA Sources and Statistical Tools
+
+<!-- <div class="video-wrapper"> -->
+<!--   <video controls poster="images/welcome_map.jpg"> -->
+<!--     <source src="videos/intro.mp4" type="video/mp4"> -->
+<!--     Your browser does not support the video tag. -->
+<!--   </video> -->
+<!-- </div> -->
+
+## 3.	Datasets
+
+## 4. Variables
+
+## 5. Anomalies
+
+
+## 6. Composites
+## 7. SEA
+## 8. Correlation
+## 9. Regression
+## 10. Annual Cycles
+## 11. Customizations and Downloads
+## 12. Outlook / Conclusions / References
+
+
+
+
+
