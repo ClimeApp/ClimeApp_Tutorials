@@ -1,6 +1,43 @@
+/* Kann nach Fertigstellung entfernt werden */
+.video-placeholder {
+  position: absolute; 
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #fff;
+  font-size: 1.2rem;
+  font-weight: bold;
+  text-align: center;
+}
+.video-wrapper {
+  position: relative;
+}
+
+
+
+
+/* Text */
 p {
   text-align: justify;
 }
+
+.text-outlook :where(p, li) {
+  text-align: justify;
+  margin: 0.25em 0; 
+}
+
+/* Links */
+.link {
+  color: #094030;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.link:hover {
+  color: #127d5e; 
+}
+
 
 /* Navigation Bar */
 .navbar {
@@ -11,6 +48,21 @@ p {
 .navbar-brand img {
   max-height: 80px;
   width: auto;
+}
+
+/* ClimeApp-Button */
+.climeapp-button {
+  display: inline-block;
+  border-radius: 10px;
+  padding: 10px;
+  background-color: #094030;
+  text-decoration: none;
+  font-weight: bold;
+  color: white;
+}
+
+.climeapp-button:hover {
+  background-color: #127d5e;
 }
 
 /* Videos */

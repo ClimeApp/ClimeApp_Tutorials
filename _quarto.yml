@@ -11,21 +11,13 @@ website:
     left: "© 2025 ClimeApp Team – University of Bern"
     right: |
       This page is built with [Quarto](https://quarto.org/)
-      <a href="https://github.com/ClimeApp/ClimeApp_Tutorials" target="_blank">
-      <br>
-        <i class="fa-brands fa-github"></i> GitHub
-      </a>
 
   navbar:
-    logo: images/Logo.png  
-    left:
-      - href: index.qmd
-        text: Home
-      - href: about.qmd
-        text: About
+    logo: images/Logo.png
+    title: Tutorials
     tools:
       - icon: github
-        href: https://github.com/ClimeApp/ClimeApp_development
+        href: https://github.com/ClimeApp
 
 format:
   html:
