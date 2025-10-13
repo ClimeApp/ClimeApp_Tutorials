@@ -38,10 +38,10 @@ To walk you through the functionalities of ClimeApp, we will analyze the largest
 
 ## 2. ModE-RA Sources and Statistical Tools
 <div class="video-wrapper">
-<video controls>
-     <source src="videos/02_sources_and_statistics.mp4" type="video/mp4"> 
-     Your browser does not support the video tag. 
-   </video> 
+  <video controls>
+    <source src="videos/02_sources_and_statistics.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>
 
 ::: {.callout-note collapse="true"}
