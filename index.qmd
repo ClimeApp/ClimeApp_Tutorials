@@ -53,11 +53,10 @@ The Standard Deviation or SD Ratio shows the extent to which the climate models,
 
 ## 3.	Datasets
 <div class="video-wrapper">
-<div class="video-placeholder">Video coming soon</div> <!-- Kann nach Fertigstellung entfernt werden -->
-<!--   <video controls> -->
-<!--     <source src="videos/03_datasets.mp4" type="video/mp4"> -->
-<!--     Your browser does not support the video tag. -->
-<!--   </video> -->
+  <video controls>
+    <source src="videos/03_datasets.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>
 
 ::: {.callout-note collapse="true"}
@@ -72,11 +71,10 @@ Let’s look at the summer temperature anomalies of 1816 over Europe and change 
 
 ## 4. Variables
 <div class="video-wrapper">
-<div class="video-placeholder">Video coming soon</div> <!-- Kann nach Fertigstellung entfernt werden -->
-<!--   <video controls> -->
-<!--     <source src="videos/04_variables.mp4" type="video/mp4"> -->
-<!--     Your browser does not support the video tag. -->
-<!--   </video> -->
+  <video controls>
+    <source src="videos/04_variables.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>
 
 ::: {.callout-note collapse="true"}
@@ -89,11 +87,10 @@ The most pronounced precipitation anomalies are seen around Southeast Asia, sugg
 
 ## 5. Anomalies
 <div class="video-wrapper">
-<div class="video-placeholder">Video coming soon</div> <!-- Kann nach Fertigstellung entfernt werden -->
-<!--   <video controls> -->
-<!--     <source src="videos/05_anomalies.mp4" type="video/mp4"> -->
-<!--     Your browser does not support the video tag. -->
-<!--   </video> -->
+  <video controls>
+    <source src="videos/05_anomalies.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>
 
 ::: {.callout-note collapse="true"}
@@ -123,11 +120,10 @@ Interpreting ModE-RA at this fine spatial and temporal resolution requires some 
 
 ## 6. Composites
 <div class="video-wrapper">
-<div class="video-placeholder">Video coming soon</div> <!-- Kann nach Fertigstellung entfernt werden -->
-<!--   <video controls> -->
-<!--     <source src="videos/06_composites.mp4" type="video/mp4"> -->
-<!--     Your browser does not support the video tag. -->
-<!--   </video> -->
+  <video controls>
+    <source src="videos/06_composites.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>
 
 ::: {.callout-note collapse="true"}
@@ -140,11 +136,10 @@ We can also use a list of custom reference years as a reference, or a certain nu
 
 ## 7. SEA
 <div class="video-wrapper">
-<div class="video-placeholder">Video coming soon</div> <!-- Kann nach Fertigstellung entfernt werden -->
-<!--   <video controls> -->
-<!--     <source src="videos/07_sea.mp4" type="video/mp4"> -->
-<!--     Your browser does not support the video tag. -->
-<!--   </video> -->
+  <video controls>
+    <source src="videos/07_sea.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>
 
 ::: {.callout-note collapse="true"}
@@ -154,11 +149,10 @@ Superposed Epoch Analysis, or SEA, is a statistical method used to detect patter
 
 ## 8. Correlation
 <div class="video-wrapper">
-<div class="video-placeholder">Video coming soon</div> <!-- Kann nach Fertigstellung entfernt werden -->
-<!--   <video controls> -->
-<!--     <source src="videos/08_correlation.mp4" type="video/mp4"> -->
-<!--     Your browser does not support the video tag. -->
-<!--   </video> -->
+  <video controls>
+    <source src="videos/08_correlation.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>
 
 ::: {.callout-note collapse="true"}
@@ -184,11 +178,10 @@ There is also the option to download the scatter plot as an image for further us
 
 ## 9. Regression
 <div class="video-wrapper">
-<div class="video-placeholder">Video coming soon</div> <!-- Kann nach Fertigstellung entfernt werden -->
-<!--   <video controls> -->
-<!--     <source src="videos/09_regression.mp4" type="video/mp4"> -->
-<!--     Your browser does not support the video tag. -->
-<!--   </video> -->
+  <video controls>
+    <source src="videos/09_regression.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>
 
 ::: {.callout-note collapse="true"}
@@ -216,11 +209,10 @@ In other words: Residual equals Original minus Trend.
 
 ## 10. Annual Cycles
 <div class="video-wrapper">
-<div class="video-placeholder">Video coming soon</div> <!-- Kann nach Fertigstellung entfernt werden -->
-<!--   <video controls> -->
-<!--     <source src="videos/10_annual_cycles.mp4" type="video/mp4"> -->
-<!--     Your browser does not support the video tag. -->
-<!--   </video> -->
+  <video controls>
+    <source src="videos/10_annual_cycles.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>
 
 ::: {.callout-note collapse="true"}
@@ -230,8 +222,8 @@ This tool lets you plot monthly values of a variable – either absolute values 
 
 
 ## 11. Customizations and Downloads
-<div class="video-placeholder">Video coming soon</div> <!-- Kann nach Fertigstellung entfernt werden -->
 <div class="video-wrapper">
+<div class="video-placeholder">Video coming soon</div> <!-- Kann nach Fertigstellung entfernt werden -->
 <!--   <video controls> -->
 <!--     <source src="videos/11_customizations_and_downloads.mp4" type="video/mp4"> -->
 <!--     Your browser does not support the video tag. -->
