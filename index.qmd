@@ -295,6 +295,22 @@ If you want to have map data of each timestep, you can download a NetCDF file th
 <!--   </video> -->
 </div>
 
+::: {.callout-note collapse="true"}
+## Full Text of Video 12
+We hope this tutorial has given you an insight into the various applications of ClimeApp. Our goal is to make climate research accessible to a wider audience, bridging the gap between climatology and other disciplines.
+
+ClimeApp and its underlying datasets are documented in several peer-reviewed publications. For a technical overview of the app, see Warren, Bartlome et al. (2024). The reconstruction dataset ModE-RA is described in Valler et al. (2024), and the model ensemble ModE-Sim in Hand et al. (2023). 
+
+The ClimeApp code is openly available on GitHub, including the current and previous versions. You can find all links in the video description.
+
+For questions, feedback, and suggestions on ClimeApp please contact us on climeapp.hist@unibe.ch
+
+ModE-RA is the main product output of the PALAEO-RA project hosted at the University of Bern between 2018 to 2023, funded by the European Research Council through the Horizon 2020 program. 
+
+ClimeApp has been developed by a climate scientist, a historian and two geographers. Richard, Nik, Noémie and Tanja wish you happy plotting!
+:::
+
+
 ::: {.text-outlook}
 **GitHub:** [https://github.com/ClimeApp/ClimeApp_development](https://github.com/ClimeApp/ClimeApp_development){.link}
 
@@ -316,19 +332,4 @@ If you want to have map data of each timestep, you can download a NetCDF file th
 
 - [Horizon 2020 program](){.link}
 
-:::
-
-::: {.callout-note collapse="true"}
-## Full Text of Video 12
-We hope this tutorial has given you an insight into the various applications of ClimeApp. Our goal is to make climate research accessible to a wider audience, bridging the gap between climatology and other disciplines.
-
-ClimeApp and its underlying datasets are documented in several peer-reviewed publications. For a technical overview of the app, see Warren, Bartlome et al. (2024). The reconstruction dataset ModE-RA is described in Valler et al. (2024), and the model ensemble ModE-Sim in Hand et al. (2023). 
-
-The ClimeApp code is openly available on GitHub, including the current and previous versions. You can find all links in the video description.
-
-For questions, feedback, and suggestions on ClimeApp please contact us on climeapp.hist@unibe.ch
-
-ModE-RA is the main product output of the PALAEO-RA project hosted at the University of Bern between 2018 to 2023, funded by the European Research Council through the Horizon 2020 program. 
-
-ClimeApp has been developed by a climate scientist, a historian and two geographers. Richard, Nik, Noémie and Tanja wish you happy plotting!
 :::
