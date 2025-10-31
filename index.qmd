@@ -223,11 +223,10 @@ This tool lets you plot monthly values of a variable – either absolute values 
 
 ## 11. Customizations and Downloads
 <div class="video-wrapper">
-<div class="video-placeholder">Video coming soon</div> <!-- Kann nach Fertigstellung entfernt werden -->
-<!--   <video controls> -->
-<!--     <source src="videos/11_customizations_and_downloads.mp4" type="video/mp4"> -->
-<!--     Your browser does not support the video tag. -->
-<!--   </video> -->
+  <video controls>
+    <source src="videos/11_customizations_and_downloads.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>
 
 ::: {.callout-note collapse="true"}
@@ -288,11 +287,10 @@ If you want to have map data of each timestep, you can download a NetCDF file th
 
 ## 12. Outlook / Conclusions / References
 <div class="video-wrapper">
-<div class="video-placeholder">Video coming soon</div> <!-- Kann nach Fertigstellung entfernt werden -->
-<!--   <video controls> -->
-<!--     <source src="videos/12_outlook.mp4" type="video/mp4"> -->
-<!--     Your browser does not support the video tag. -->
-<!--   </video> -->
+  <video controls>
+    <source src="videos/12_outlook.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>
 
 ::: {.callout-note collapse="true"}
